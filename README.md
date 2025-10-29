@@ -1,11 +1,10 @@
 # PRS-PM-Project-Submission-Group10
 
-﻿### [ Practice Module ] Project Submission: Group 10
+**Project Submission: Group 10** 
 
-**[ Pattern_Recognition_Systems-2025-Jul-Nov-AIS07FT-Group10-Motion_Analysis ]** 
+**Pattern Recognition Systems-2025-Jul-Nov-AIS07FT-Group10-Motion Analysis** 
 
-
-
+------------------------------------
 ## **SECTION 1: PROJECT TITLE**
 
 ### **Motion_Analysis**
