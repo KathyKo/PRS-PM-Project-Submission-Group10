@@ -16,7 +16,7 @@
 ## **SECTION 2: EXECUTIVE SUMMARY**
 
 Physical exercise is crucial for health, but incorrect execution in gyms often leads to injuries and reduced training effectiveness.   
-To address this, our project introduces an AI-driven motion analysis system designed to serve as an intelligent assistant for fitness training🏋️🤸
+To address this, our project introduces motion analysis system designed to serve as an intelligent assistant for fitness training🏋️🤸
 
 This system is built upon the **Fit3D dataset** and integrates two core components:
 
