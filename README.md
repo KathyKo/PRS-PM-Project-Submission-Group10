@@ -16,13 +16,13 @@
 ## **SECTION 2: EXECUTIVE SUMMARY**
 
 Physical exercise is crucial for health, but incorrect execution in gyms often leads to injuries and reduced training effectiveness.   
-To address this, our project introduces motion analysis system designed to serve as an intelligent assistant for fitness training🏋️🤸
+To address this, our project introduces motion analysis system designed to serve as an intelligent assistant for fitness training
 
 This system is built upon the **Fit3D dataset** and integrates two core components:
 
-**Motion Recognition Module:** Utilizes supervised deep learning models (LSTM/GRU) to accurately classify different types of gym exercises, such as squats, push-ups, and lunges, by learning from 3D human motion data.
+**Motion Recognition Module:** Utilizes supervised deep learning models xxxxxxxxxxx to accurately classify different types of gym exercises, such as squats, push-ups, and lunges, by learning from 3D human motion data.
 
-**Motion Correction Module:** Employs Dynamic Time Warping (DTW) to align a user's motion sequence against a canonical template. This allows the system to detect improper movements—including joint misalignment, insufficient range of motion, or instability—and provide targeted, corrective feedback.
+**Motion Correction Module:** Employs xxxxxxxxxxxxx to align a user's motion sequence against a canonical template. This allows the system to detect improper movements—including joint misalignment, insufficient range of motion, or instability—and provide targeted, corrective feedback.
 
 The project integrates these modules into a runnable framework that provides corrective feedback through visual and textual cues. The resulting system achieves high accuracy in recognition and reliable error detection, demonstrating technical effectiveness and user interpretability. This work highlights the potential of machine learning to enhance personal fitness, prevent injuries, and power applications in smart gyms, remote physiotherapy, and wearable fitness devices.
 
