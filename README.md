@@ -34,7 +34,7 @@ The project integrates these into a runnable workflow that provides corrective f
 
 ## **SECTION 3: VIDEO OF SYSTEM & USE CASE DEMO**
 
-Refer to `Video/xxx.mp4` or the YouTube link https://youtu.be/xxxxxx
+Refer to YouTube link : https://youtu.be/oTbP0CWLxPc
 
 
 ## **SECTION 4: PROJECT REPORT / PAPER**
