@@ -39,9 +39,7 @@ Refer to `ProjectReport/Individual_Contribution.pdf`
 Refer to `Video/xxx.mp4` or the YouTube link https://youtu.be/xxxxxx
 
 
-
-
-## **SECTION 5: PROJECT REPORT / PAPER**
+## **SECTION 4: PROJECT REPORT / PAPER**
 
 Refer to `ProjectReport/Project_Report.pdf`
 
