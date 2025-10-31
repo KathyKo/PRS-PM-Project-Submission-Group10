@@ -22,8 +22,6 @@ The project integrates these into a runnable workflow that provides corrective f
 
 ## **SECTION 2: PROJECT CONTRIBUTION**
 
-Refer to `ProjectReport/Individual_Contribution.pdf`
-
 | Name         | Student ID | Work Items | Email              |
 |--------------|------------|------------|--------------------|
 | Jin Keyi     | A0276819L  | **1. Contributions** xxxx | e1133134@u.nus.edu |
