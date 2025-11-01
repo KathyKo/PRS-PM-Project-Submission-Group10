@@ -25,7 +25,7 @@ The project integrates these into a runnable workflow that provides corrective f
 |--------------|------------|-------------|--------------------|
 | **Jin Keyi** | A0276819L  | • Data preprocessing and feature extraction from Fit3D (SMPL-X: orientation, pose, translation).<br>• Built motion recognition models using LSTM.<br>• Tested MediaPipe for keypoint extraction and checked compatibility.<br>• Handled normalization, sequence alignment, and dataset balancing.<br>• Evaluated models with accuracy, precision, recall, and F1-score. | e1133134@u.nus.edu |
 | **Ko Hung-Chi**  | A0327344E  |Synthesized  research and team results into the project report| e1539175@u.nus.edu |
-| **Sun Yuchen**   | A0326248B  | Contributions ... | e1538079@u.nus.edu |
+| **Sun Yuchen**   | A0326248B  | Train Auto_encoder model, using 4D-humans(SMPL-X) to extract key features, motion corecction and model validation| e1538079@u.nus.edu |
 | **Zhang Yuxuan** | A0285664N  | Contributions ... | e1216649@u.nus.edu |
 | **Zhao Jiahui**  | A0329852U  | Focused on test-set preprocessing, 3D motion tracking, visualization, and model evaluation.| e1554179@u.nus.edu |
 
